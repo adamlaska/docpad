@@ -204,7 +204,7 @@
     "envfile": "^6.14.0",
     "errlop": "^3.17.0",
     "event-emitter-grouped": "^4.15.0",
-    "extendr": "^5.15.0",
+    "extendr": "^5.19.0",
     "extract-opts": "^4.3.0",
     "ignorefs": "^3.13.0",
     "inquirer": "^7.3.3",
