@@ -224,7 +224,7 @@
     "taskgroup": "^7.16.0",
     "typechecker": "^7.16.0",
     "unbounded": "^3.12.0",
-    "underscore": "^1.11.0",
+    "underscore": "^1.13.2",
     "watchr": "^6.8.0",
     "yamljs": "~0.3.0"
   },
