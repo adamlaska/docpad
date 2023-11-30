@@ -216,7 +216,7 @@
     "progress-title": "^3.13.0",
     "query-engine": "~1.5.7",
     "rfc-log-levels": "^3.14.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "safefs": "^6.13.0",
     "safeps": "^10.14.0",
     "scandirectory": "^6.13.0",
