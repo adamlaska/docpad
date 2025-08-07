@@ -209,7 +209,7 @@
     "extendr": "^5.15.0",
     "extract-opts": "^4.3.0",
     "ignorefs": "^3.13.0",
-    "inquirer": "^7.3.3",
+    "inquirer": "^10.0.0",
     "istextorbinary": "^5.11.0",
     "jschardet": "~2.2.1",
     "lazy-require": "^4.6.0",
